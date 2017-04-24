@@ -4,7 +4,6 @@
 ### Overview
 This was a project using TensorFlow to recognize and classify distracted drivers from the [State Farm Distracted Driver Dataset](https://www.kaggle.com/c/state-farm-distracted-driver-detection) on Kaggle.
 
-The model reached 99% accuracy on the validation set.
 
 The [notebook](./driver_classification.html) is designed to be readable and understandable. I recommend any viewers open the notebook using jupyter or open the html of the notebook in their browsers.
 
